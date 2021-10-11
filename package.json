@@ -1,0 +1,13 @@
+{
+    "name": "ma-teyahch",
+    "version": "0.1.0",
+    "homepage": "https://github.com/AMAmine89/npm-ma-teyahch",
+    "main": "index.js",
+    "type": "module",
+    "private": false,
+    "author": {
+        "name": "AMAmine89",
+        "email": "ablamohamedamine@gmail.com",
+        "url": "https://am-amine.com"
+    }
+}
